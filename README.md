@@ -57,17 +57,20 @@ https://www.linkedin.com/in/joaovitornsouza/
 
 **Telas**:
 
-<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png" alt="App Screenshot" width="500">
-
-<div style="display: flex;">
-  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png" alt="Tela Gerar excel 1" width="400">
-  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%202.png" alt="Tela Gerar excel 2" width="400">
+<div style="text-align: center;">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png" alt="Tela inicial" width="600">
 </div>
 
 <div style="display: flex;">
-  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20cadastrar.png" alt="Tela cadastrar" width="400">
-  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20etiquetar.png" alt="Tela etiquetar" width="400">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png" alt="Tela Gerar excel 1" width="600">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%202.png" alt="Tela Gerar excel 2" width="600">
 </div>
+
+<div style="display: flex;">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20cadastrar.png" alt="Tela cadastrar" width="600">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20etiquetar.png" alt="Tela etiquetar" width="600">
+</div>
+
 
 
 **Funcionamento**:
