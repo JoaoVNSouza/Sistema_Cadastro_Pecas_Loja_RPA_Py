@@ -56,21 +56,30 @@ https://www.linkedin.com/in/joaovitornsouza/
 ## Screenshots
 
 **Telas**:
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+Principal
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png)
 
 1º Gerar excel
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png)
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%202.png)
 
 2º Cadastrar
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20cadastrar.png)
 
 3º Etiquetar
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20etiquetar.png)
 
 **Funcionamento**:
 
 Excel gerado
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Excel%20gerado.png)
 
 Cadastro automático
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Cadastro%20autom%C3%A1tico.png)
 
 Etiquetar automático
+![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Etiquetar%20autom%C3%A1tico.png)
 
 
 
