@@ -58,7 +58,7 @@ https://www.linkedin.com/in/joaovitornsouza/
 **Telas**:
 
 Principal
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png" alt="App Screenshot" width="150">
 
 1º Gerar excel
 ![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png)
