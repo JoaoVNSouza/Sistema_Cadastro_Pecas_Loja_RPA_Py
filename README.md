@@ -55,32 +55,32 @@ https://www.linkedin.com/in/joaovitornsouza/
 
 ## Screenshots
 
-**Telas**:
+#### **Telas**: Gerar excel, Cadastrar, Etiquetar.
 
 <p align="center">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png" alt="Image" width="600">
 </p>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png" alt="Tela Gerar excel 1" width="500">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%202.png" alt="Tela Gerar excel 2" width="500">
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20cadastrar.png" alt="Tela cadastrar" width="500">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20etiquetar.png" alt="Tela etiquetar" width="500">
 </div>
 
 
 
-**Funcionamento**: Excel gerado, Cadastro automático, etiquetar automático.
+#### **Funcionamento**: Excel gerado, Cadastro automático, etiquetar automático.
 
 <p align="center">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Excel%20gerado.png" alt="Excel gerado" width="800">
 </p>
 
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Cadastro%20autom%C3%A1tico.png" alt="Cadastro" width="500">
   <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Etiquetar%20autom%C3%A1tico.png" alt="Etiquetar" width="500">
 </div>
