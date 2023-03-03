@@ -73,19 +73,17 @@ https://www.linkedin.com/in/joaovitornsouza/
 
 
 
-**Funcionamento**:
+**Funcionamento**: Excel gerado, Cadastro automático, etiquetar automático.
 
-Excel gerado
-<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Excel%20gerado.png" alt="App Screenshot" width="500">
-
-
-Cadastro automático
-<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Cadastro%20autom%C3%A1tico.png" alt="App Screenshot" width="600">
-
-Etiquetar automático
-<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Etiquetar%20autom%C3%A1tico.png" alt="App Screenshot" width="600">
+<p align="center">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Excel%20gerado.png" alt="Excel gerado" width="800">
+</p>
 
 
+<div style="display: flex;">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Cadastro%20autom%C3%A1tico.png" alt="Cadastro" width="500">
+  <img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Etiquetar%20autom%C3%A1tico.png" alt="Etiquetar" width="500">
+</div>
 
 
 
