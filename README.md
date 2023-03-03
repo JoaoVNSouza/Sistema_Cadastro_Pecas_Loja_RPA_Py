@@ -58,28 +58,30 @@ https://www.linkedin.com/in/joaovitornsouza/
 **Telas**:
 
 Principal
-<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png" alt="App Screenshot" width="500">
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20inicial.png" alt="App Screenshot" width="600">
 
 1º Gerar excel
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png)
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%202.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%201.png" alt="App Screenshot" width="600">
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20gerar%20excel%202.png" alt="App Screenshot" width="600">
 
 2º Cadastrar
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20cadastrar.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20cadastrar.png" alt="App Screenshot" width="600">
 
 3º Etiquetar
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20etiquetar.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/tela%20etiquetar.png" alt="App Screenshot" width="600">
 
 **Funcionamento**:
 
 Excel gerado
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Excel%20gerado.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Excel%20gerado.png" alt="App Screenshot" width="600">
+
 
 Cadastro automático
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Cadastro%20autom%C3%A1tico.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Cadastro%20autom%C3%A1tico.png" alt="App Screenshot" width="700">
 
 Etiquetar automático
-![App Screenshot](https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Etiquetar%20autom%C3%A1tico.png)
+<img src="https://github.com/JoaoVNSouza/Sistema_Cadastro_Produtos_Loja_RPA_Py/blob/main/Screenshots/Etiquetar%20autom%C3%A1tico.png)" alt="App Screenshot" width="700">
+
 
 
 
