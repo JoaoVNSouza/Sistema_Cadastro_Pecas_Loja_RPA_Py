@@ -11,6 +11,8 @@ Aqui temos uma aplicação completa que foi desenvolvida para automatizar o proc
 Basta execular o arquivo "Cadastro - GUI.pyw" para executar a aplicação.
 
 Sendo necessário configurar a pasta "Arquivos" onde está localizado as notas. Alterando: absolute_path = r'C:\user\directory\Arquivos' no arquivo func_gerais.py
+
+
 ## Créditos:
 * ElementTree: manipulação de dados XML.
 * pandas: manipulação de dados xlsx.
